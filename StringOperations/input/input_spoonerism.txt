@@ -1,0 +1,5 @@
+hello world
+bob marley
+Burnt Toast
+should fail badly
+fails
